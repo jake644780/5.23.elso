@@ -49,11 +49,20 @@ p {
 
 .lablec {
   background-color: rgb(14, 78, 104);
+
 }
+
 
 .lablec a {
   margin: auto;
   line-height: 50px;
+  color: white;
+  font-weight: bold;
+}
+
+.lablec a :hover{
+color: red;
+text-decoration: none;
 }
 
 td {
